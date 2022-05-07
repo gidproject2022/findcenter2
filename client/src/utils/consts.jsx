@@ -1,0 +1,12 @@
+export const CREATE_PROJECT_ROUTE = "/createproject";
+export const CREATE_EVENT_ROUTE = "/createevent";
+export const CREATE_TYPE_ROUTE = "/createtype";
+export const LOGIN_ROUTE = "/login";
+export const REGISTRATION_ROUTE = "/registration";
+export const PROJECTS_ROUTE = "/projects";
+export const EVENTS_ROUTE = "/events";
+export const PROJECT_ROUTE = "/project";
+export const EVENT_ROUTE = "/event";
+export const TYPES_ROUTE = "/types";
+export const BASKET_ROUTE = "/basket";
+export const INFO_ROUTE = "/";
